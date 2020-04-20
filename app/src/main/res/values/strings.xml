@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScoolQuiz</string>
+    <string name="submit">Submit</string>
+    <string name="start">Start</string>
+    <string name="restart">Restart</string>
+    <string name="congrats_message">Congratulations! You are correct</string>
+    <string name="failed_message">Sorry! You are wrong</string>
+    <string name="end">You have finished all questions</string>
+</resources>
